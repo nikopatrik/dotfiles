@@ -1,0 +1,6 @@
+alias gs="git status"
+alias ga="git add"
+alias gaa="git add -A"
+alias gcm="git commit -m"
+alias gpom="git pull origin master"
+alias gprm="git pull --rebase origin master"
